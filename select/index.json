@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "リアライズ",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2025-12-17T09:09:15.640147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リアライズ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_リアライズ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リアライズ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_リアライズ_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リアライズ - Realize (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_リアライズ_-_Realize_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リアライズ",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/04_リアライズ_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リアライズ",
+      "artist": "Sukima Switch",
+      "has_synced": false,
+      "path": "select/05_リアライズ_Sukima_Switch.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リアライズ",
+      "artist": "ROOKiEZ is PUNK'D",
+      "has_synced": true,
+      "path": "select/06_リアライズ_ROOKiEZ_is_PUNK'D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リアライズ (Album Ver.)",
+      "artist": "ROOKiEZ is PUNK’D",
+      "has_synced": true,
+      "path": "select/07_リアライズ_(Album_Ver.)_ROOKiEZ_is_PUNK’D.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "リアライズ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/08_リアライズ_スキマスイッチ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "リアライズ (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 & 初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_リアライズ_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&_初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "リアライズ",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/10_リアライズ_大原ゆい子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リアライズ",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_リアライズ_柊マグネタイト.txt"
+    }
+  ]
+}
